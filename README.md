@@ -66,26 +66,21 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=navaneeth-exe&show_icons=true" />
-</p>
-
-### 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=navaneeth-exe&layout=compact" />
+  <img src="https://streak-stats.demolab.com/?user=navaneeth-exe" />
 </p>
 
 ---
 
-### 📈 Top Languages
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneeth-exe&layout=compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navaneeth-exe" />
 </p>
 
 ---
 
-### 👀 Profile Views Counter
+### 👀 Profile Views
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=navaneeth-exe&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
