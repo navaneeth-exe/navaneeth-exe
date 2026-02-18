@@ -68,14 +68,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navaneeth-exe&show_icons=true&locale=en&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=navaneeth-exe&show_icons=true" />
 </p>
 
----
-
-### 🔥 Streak Stats
+### 📈 Top Languages
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=navaneeth-exe" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=navaneeth-exe&layout=compact" />
 </p>
 
 ---
