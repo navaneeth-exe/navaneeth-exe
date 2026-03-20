@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=navaneeth-exe&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=AHHHHHHHHHHHH" alt="Typing introduction" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=navaneeth-exe&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=navaneeth-exe">
@@ -10,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/d0/97/9b/d0979b26cec609049b3d1a3dee5b89b3.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🎓 BTech CSE student passionate about coding & problem solving
@@ -32,13 +28,13 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=navaneeth-exe&theme=github_dark&hide_border=true&cache_seconds=86400" alt="navaneeth-exe's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=navaneeth-exe&theme=radical&hide_border=true&cache_seconds=86400" alt="navaneeth-exe's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=navaneeth-exe&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="navaneeth-exe's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=navaneeth-exe&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="navaneeth-exe's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=navaneeth-exe&theme=github_dark&radius=10" alt="navaneeth-exe's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=navaneeth-exe&theme=radical&radius=10" alt="navaneeth-exe's Activity Graph" />
 </p>
 
 
@@ -61,7 +57,7 @@
 
 <p align="center">
   <a href="https://github.com/navaneeth-exe">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=navaneeth-exe&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=navaneeth-exe&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
