@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=navaneeth-exe&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="15%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=navaneeth-exe&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=navaneeth-exe">
@@ -6,7 +6,6 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/d0/97/9b/d0979b26cec609049b3d1a3dee5b89b3.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🎓 BTech CSE student passionate about coding & problem solving
