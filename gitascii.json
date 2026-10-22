@@ -45520,7 +45520,7 @@
       "name": "Asciiprofile-heatmap Widget",
       "position": {
         "x": 0,
-        "y": 932
+        "y": 969
       },
       "size": {
         "width": 792,
@@ -45566,7 +45566,7 @@
       "name": "Stats Widget",
       "position": {
         "x": 0,
-        "y": 590
+        "y": 608
       },
       "size": {
         "width": 792,
@@ -45593,7 +45593,7 @@
       "name": "Repositories Widget",
       "position": {
         "x": 0,
-        "y": 1244
+        "y": 1283
       },
       "size": {
         "width": 800,
@@ -45628,7 +45628,7 @@
       "name": "Divider Widget",
       "position": {
         "x": 0,
-        "y": 892
+        "y": 930
       },
       "size": {
         "width": 800,
@@ -45648,7 +45648,7 @@
       "name": "Tech-stack Widget",
       "position": {
         "x": 0,
-        "y": 742
+        "y": 780
       },
       "size": {
         "width": 800,
@@ -45702,7 +45702,7 @@
       "name": "Divider Widget (Cópia)",
       "position": {
         "x": 0,
-        "y": 552
+        "y": 574
       },
       "size": {
         "width": 800,
@@ -45723,7 +45723,7 @@
       "name": "Divider Widget (Cópia)",
       "position": {
         "x": 0,
-        "y": 712
+        "y": 740
       },
       "size": {
         "width": 800,
@@ -45739,38 +45739,12 @@
       "zIndex": 10
     },
     {
-      "instanceId": "widget_1792700882279",
-      "widgetId": "codeweb-social-badge",
-      "name": "Codeweb-social-badge Widget",
-      "position": {
-        "x": 0,
-        "y": 494
-      },
-      "size": {
-        "width": 800,
-        "height": 44
-      },
-      "config": {
-        "platforms": [
-          "github",
-          "linkedin",
-          "gmail"
-        ],
-        "label_github": "",
-        "animationType": "slide-up",
-        "animationPreviewKey": 1
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 13
-    },
-    {
       "instanceId": "widget_1792700996861_0",
       "widgetId": "divider",
       "name": "Divider Widget (Cópia)",
       "position": {
         "x": 0,
-        "y": 1209
+        "y": 1248
       },
       "size": {
         "width": 800,
@@ -45791,7 +45765,7 @@
       "name": "Divider Widget (Cópia)",
       "position": {
         "x": 0,
-        "y": 1589
+        "y": 1628
       },
       "size": {
         "width": 800,
@@ -45822,6 +45796,36 @@
         "accentColor": "#bd93f9",
         "animationType": "fade-in",
         "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 15
+    },
+    {
+      "instanceId": "widget_1792702452955",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 222,
+        "y": 494
+      },
+      "size": {
+        "width": 520,
+        "height": 72
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "linkedin",
+          "email"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/navaneeth-exe",
+          "linkedin": "https://www.linkedin.com/in/-navaneeth-s-/",
+          "email": "mailto:navaneeths345@gmail.com",
+          "website": "https://trophy.ryglcloud.net/?username=navaneeth-exe&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400"
+        },
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
